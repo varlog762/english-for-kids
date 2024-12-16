@@ -46,3 +46,14 @@ This will launch the app in your default browser.
    ```bash
    npm run build
 The build files will be output to the dist folder.
+
+## Project Structure
+
+-- Learning Mode:
+   -- Designed for vocabulary exploration.
+   -- Ideal for children starting their English journey.
+-- Game Mode:
+   -- Encourages active learning through challenges.
+   -- Improves listening and word-picture association.
+
+## Technologies Used
