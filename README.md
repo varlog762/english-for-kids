@@ -40,9 +40,12 @@
 4.	Start the development server:
   ```bash
   npm start
+
+
 This will launch the app in your default browser.
 
 5.	To build the production version:
   ```bash
   npm run build
+
 The build files will be output to the dist folder.
