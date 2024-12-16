@@ -33,18 +33,18 @@
   ```bash
   cd english-for-kids
 
-3.	Install dependencies:
+3. Install dependencies:
   ```bash
   npm install
 
-4.	Start the development server:
+4. Start the development server:
   ```bash
   npm start
 
 
 This will launch the app in your default browser.
 
-5.	To build the production version:
+5. To build the production version:
   ```bash
   npm run build
 
