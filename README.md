@@ -2,6 +2,8 @@
 
 **Funny English** is an interactive game designed to help children learn English vocabulary in a fun and engaging way. The game features two modes, each aimed at enhancing different aspects of language learning: vocabulary recognition and listening comprehension.
 
+![Funny English]()
+
 ## Features
 
 - **Two Modes of Play**:
