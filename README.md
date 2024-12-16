@@ -26,7 +26,7 @@
 ## How to Run
 
 1. Clone the repository:
-   ```bash
+  ```bash
    git clone https://github.com/yourusername/english-for-kids.git
 
 2. Navigate to the project directory:
