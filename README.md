@@ -76,5 +76,5 @@ The build files will be output to the dist folder.
 - ***npm run dev:*** Builds the project in development mode.
 
 ## Author
-Developed by Gregory Pereverzev.
+Developed by [Gregory Pereverzev](https://github.com/varlog762).
 Feel free to contact me for questions, feedback, or suggestions!
