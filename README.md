@@ -57,3 +57,22 @@ The build files will be output to the dist folder.
    - Improves listening and word-picture association.
 
 ## Technologies Used
+
+- **Core Technologies:**
+   - HTML, CSS, JavaScript
+- **Build Tools:**
+   - Webpack
+- **Styling:**
+   - Scss, normalize.css
+- **Development Tools:**
+   - Babel, Webpack Dev Server
+
+## Development Scripts
+
+- ***npm start:*** Runs the development server with hot reload.
+- ***npm run build:*** Builds the project for production.
+- ***npm run dev:*** Builds the project in development mode.
+
+## Author
+Developed by Gregory Pereverzev.
+Feel free to contact me for questions, feedback, or suggestions!
