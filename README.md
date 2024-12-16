@@ -26,26 +26,26 @@
 ## How to Run
 
 1. Clone the repository:
-  ```bash
+   ```bash
    git clone https://github.com/yourusername/english-for-kids.git
 
 2. Navigate to the project directory:
-  ```bash
-  cd english-for-kids
+   ```bash
+   cd english-for-kids
 
 3. Install dependencies:
-  ```bash
-  npm install
+   ```bash
+   npm install
 
 4. Start the development server:
-  ```bash
-  npm start
+   ```bash
+   npm start
 
 
 This will launch the app in your default browser.
 
 5. To build the production version:
-  ```bash
-  npm run build
+   ```bash
+   npm run build
 
 The build files will be output to the dist folder.
