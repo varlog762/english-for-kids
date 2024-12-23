@@ -29,7 +29,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/english-for-kids.git
+   git clone https://github.com/varlog762/english-for-kids.git
 
 2. Navigate to the project directory:
    ```bash
