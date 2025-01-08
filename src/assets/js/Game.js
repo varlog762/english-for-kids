@@ -34,7 +34,7 @@ export class Game {
     document.body.addEventListener("click", (event) => {
       if (
         event.target.closest(".switch") ||
-        event.target.closest(".brgr-menu-item")
+        event.target.closest(".burger-menu-item")
       ) {
         this.stopGame();
       }

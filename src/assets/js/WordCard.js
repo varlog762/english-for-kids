@@ -25,6 +25,7 @@ export class WordCard extends Category {
     this.incorrectAnswersNum;
     this.winRate;
   }
+
   get clickedOnTrainMode() {
     const objFromLocalStorage =
       JSON.parse(localStorage.getItem(this.word)) ?? false;
